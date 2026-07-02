@@ -37,9 +37,21 @@ Go through them in order — each one builds on the last.
 | 11 | [`11_if_else_elif.ipynb`](./11_if_else_elif.ipynb) | Conditionals, nested if, ternary, `match` / `case` |
 | 12 | [`12_for_loops.ipynb`](./12_for_loops.ipynb) | `for`, `range()`, `break` / `continue` / `pass`, `for-else`, nested loops |
 | 13 | [`13_while_loops.ipynb`](./13_while_loops.ipynb) | `while`, `while True` + `break`, `while-else` |
-| 14 | [`14_lists.ipynb`](./14_lists.ipynb) | Creating, accessing, modifying, sorting, copying lists |
-| 15 | [`15_project_simple_interest.ipynb`](./15_project_simple_interest.ipynb) | Mini project: simple interest calculator |
-| 16 | [`16_project_compound_interest.ipynb`](./16_project_compound_interest.ipynb) | Mini project: simple vs. compound interest comparison |
+| 14 | [`14_lists.ipynb`](./14_lists.ipynb) | Creating, accessing, modifying, sorting, combining, copying lists |
+| 15 | [`15_iterables_and_filtering.ipynb`](./15_iterables_and_filtering.ipynb) | `enumerate()`, `reversed()`, `zip()`, `map()`, `filter()` |
+
+New topic notebooks get added to the end of this list as I complete them, so the numbers above won't shift.
+
+---
+
+## 🧪 Mini Projects
+
+Small standalone projects that apply concepts from the notebooks above. Named `A`, `B`, etc. instead of numbered, so they don't need renaming as new topic notebooks get added.
+
+| Project | Notebook | Description |
+|---|----------|-------------|
+| A | [`project_a_simple_interest.ipynb`](./project_a_simple_interest.ipynb) | Simple interest calculator |
+| B | [`project_b_compound_interest.ipynb`](./project_b_compound_interest.ipynb) | Simple vs. compound interest comparison |
 
 ---
 
@@ -47,8 +59,8 @@ Go through them in order — each one builds on the last.
 
 Currently ~3/4 through the full basics course. Still to come:
 
-- [ ] Sorting & combining lists (advanced)
-- [ ] Iterables, filtering
+- [x] Sorting & combining lists (advanced)
+- [x] Iterables, filtering
 - [ ] Lambda & list comprehension
 - [ ] Tuples
 - [ ] Sets
